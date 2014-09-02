@@ -1,0 +1,3 @@
+%_topdir      __TOP_DIR__ 
+%_smp_mflags -j4
+%debug_package  %{nil}
